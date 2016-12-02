@@ -25,7 +25,7 @@ app.config(function ($routeProvider) {
 
 app.controller('mainController', function ($scope) {
 
-	$scope.message = 'Hello World!!!';
+	$scope.message = 'Java Não Presta!!!';
 
 });
 
